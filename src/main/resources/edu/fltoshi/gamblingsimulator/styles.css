@@ -1,0 +1,13 @@
+.anchorPane{
+    -fx-background-color: white;
+}
+
+.startButton {
+    -fx-background-color: #51f551;
+    -fx-border-color: black;
+}
+
+.exitButton {
+    -fx-background-color: #fa4e4e;
+    -fx-border-color: black;
+}
